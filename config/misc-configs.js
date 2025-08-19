@@ -1,7 +1,7 @@
 const misc = {
     // Users who are authorized to process donations.
     staffPremium: [
-        "137624084572798976", //Dan
+        "875671806609084428", //Dan
         "737603315722092544", //Sarah
         "459025800633647116", //Avix
         "757296951925538856", //DIBSTER
@@ -10,7 +10,7 @@ const misc = {
 
     // Staff who can make code drops.
     codeDrops: [
-        "137624084572798976", //Dan
+        "875671806609084428", //Dan
         "737603315722092544", //Sarah
         "405771597761216522", //Mike
         "757296951925538856"  //DIBSTER
@@ -18,7 +18,7 @@ const misc = {
 
     //Staff who can run eval and exec.
     botCommands: [
-        "137624084572798976", //Dan
+        "875671806609084428", //Dan
         "757296951925538856",  //DIBSTER
         "405771597761216522", //Mike
     ],
@@ -31,17 +31,17 @@ const misc = {
 
     // Staff that can DM the bot.
     dmAllowedUsers: [
-        "137624084572798976", // Dan
+        "875671806609084428", // Dan
         "757296951925538856"  // DIBSTER
     ],
 
     // Channels where users can run the bot commands.
     allowedChannels: [
-        "898041850890440725", // #commands - Community
-        "898041866589700128", // #commands - Donators
-        "898041878447013948", // #commands - Beta Testers
-        "1217536336181854258", // #commands - Staff
-        "898041906599178240", // #private - Staff
+        "1397437242942820423", // #commands - Community
+        "1397437294373376010", // #commands - Donators
+        "1397437308583809044", // #commands - Beta Testers
+        "1397437365261439048", // #commands - Staff
+        "1397437368755028028", // #private - Staff
     ],
 
     // Categories where users can run the bot commands.
