@@ -6,10 +6,10 @@
     },
     "PremiumServerPrice": "1$",
     "database": {
-        "host": "",
-        "port": "",
-        "user": "",
-        "pass": "",
+        "host": "uk-01.rrhosting.eu",
+        "port": "1347",
+        "user": "root",
+        "pass": ""root,
         "db": ""
     },
     "DiscordBot": {
