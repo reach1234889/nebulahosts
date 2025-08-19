@@ -9,7 +9,7 @@
         "host": "uk-01.rrhosting.eu",
         "port": "1347",
         "user": "root",
-        "pass": ""root,
+        "pass": "root",
         "db": ""
     },
     "DiscordBot": {
