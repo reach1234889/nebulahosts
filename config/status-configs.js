@@ -7,8 +7,8 @@ const Status = {
                     Name: "PNode 1",
                     serverID: "2dadcc36",
                     IP: Config.Nodes.PNode1,
-                    ID: "38",
-                    Location: Config.Ping.UK,
+                    ID: "1",
+                    Location: Config.Ping,
                     MaxLimit: 1000
                 }
             },
@@ -18,8 +18,8 @@ const Status = {
                     Name: "Dono-01",
                     serverID: "bd9d3ad6",
                     IP: Config.Nodes.Dono1,
-                    ID: "34",
-                    Location: Config.Ping.UK,
+                    ID: "2",
+                    Location: Config.Ping,
                     MaxLimit: 1500
                 },
                 dono02: {
@@ -27,7 +27,7 @@ const Status = {
                     serverID: "ca6dba5a",
                     IP: Config.Nodes.Dono2,
                     ID: "31",
-                    Location: Config.Ping.UK,
+                    Location: Config.Ping,
                     MaxLimit: 560
                 },
                 dono03: {
@@ -35,7 +35,7 @@ const Status = {
                     serverID: "c23f92cb",
                     IP: Config.Nodes.Dono3,
                     ID: "33",
-                    Location: Config.Ping.UK,
+                    Location: Config.Ping,
                     MaxLimit: 2000
                 },
                 dono04: {
@@ -43,7 +43,7 @@ const Status = {
                     serverID: "c095a2cb",
                     IP: Config.Nodes.Dono4,
                     ID: "46",
-                    Location: Config.Ping.UK,
+                    Location: Config.Ping,
                     MaxLimit: 200
                 }
             }
@@ -53,12 +53,12 @@ const Status = {
             us2: {
                 name: "United States 2",
                 IP: Config.Servers.US2,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             },
             pus1: {
                 name: "Ryzen - United States 1",
                 IP: Config.Servers.PUS1,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             }
         },
 
@@ -66,22 +66,22 @@ const Status = {
             pterodactylPublic: {
                 name: "Pterodactyl (Public)",
                 IP: Config.Services.pteropublic,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             },
             billingPanel: {
                 name: "Billing Panel",
                 IP: Config.Services.billingpanel,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             },
             mailService: {
                 name: "Mail Service",
                 IP: Config.Services.mailserver,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             },
             vpsPanel: {
                 name: "VPS Panel",
                 IP: Config.Services.vpspanel,
-                Location: Config.Ping.UK
+                Location: Config.Ping
             }
         }
 }
